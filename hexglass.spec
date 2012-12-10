@@ -59,3 +59,10 @@ EOF
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/%{name}.xpm
 
+
+
+%changelog
+* Tue Mar 27 2012 Andrey Bondrov <abondrov@mandriva.org> 1.2.1-1mdv2011.0
++ Revision: 787382
+- imported package hexglass
+
