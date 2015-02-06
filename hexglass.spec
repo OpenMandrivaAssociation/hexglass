@@ -1,6 +1,6 @@
 Name:		hexglass
 Version:	1.2.1
-Release:	%mkrel 1
+Release:	2
 Summary:	Block falling puzzle game based on a hexagonal grid 
 Group:		Games/Puzzles
 License:	GPLv3+
