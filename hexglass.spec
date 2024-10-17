@@ -4,7 +4,7 @@ Release:	2
 Summary:	Block falling puzzle game based on a hexagonal grid 
 Group:		Games/Puzzles
 License:	GPLv3+
-URL:		http://code.google.com/p/hexglass
+URL:		https://code.google.com/p/hexglass
 Source0:	http://hexglass.googlecode.com/files/%{name}-%{version}.tar.gz
 Source1:	%{name}.desktop
 # Let the application search for locale files in
