@@ -10,6 +10,7 @@ Source1:	%{name}.desktop
 # Let the application search for locale files in
 # /usr/share/hexglass/translations/
 Patch0:		hexglass-1.2.1-locale-path.patch
+BuildRequires:	make
 BuildRequires:	qt4-devel
 
 %description
